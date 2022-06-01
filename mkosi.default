@@ -3,7 +3,7 @@ Distribution=fedora
 Release=36
 Architecture=x86_64
 UseHostRepositories=yes
-Repositories=fedora,updates,asahi-linux
+Repositories=fedora,updates,asahi-linux, archlinux
 
 [Output]
 Format=directory
